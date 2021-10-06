@@ -9,9 +9,9 @@ Os dados são obtidos por meio da API do YouTube. Veja como obter a sua chave da
 
 O script oferece os dados em CSV ao final. Neste repositório há:
 
-- `canal_insper.csv` contains values for the “raw” index
-- `alessandro.csv` contains values for the “adjusted” index
-- `alessandro.csv` contains both
+- `canal_insper.csv` contém dados do canal do Insper
+- `alessandro.csv` contém dados do meu canal pessoal
+- `alessandro.csv` contém dados do meu canal pessoal após tornar um vídeo privado
 
 #### Dicionário
 
