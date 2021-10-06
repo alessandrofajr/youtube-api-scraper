@@ -28,18 +28,4 @@ O script oferece os dados em CSV ao final. Neste repositório há:
 | views                | Número de visualizações                                                            |
 | comment              | Número de comentários                                                              |
 | thumbnail            | Link da thumbnail do vídeo                                                         |
-| channel_x            | Título do canal no primeiro dataset                                                |
-| channel_y            | Título do canal no segundo dataset                                                 | 
-| title_x              | Nome do canal no primeiro dataset                                                  |
-| title_y              | Nome do canal no segundo dataset                                                   |
-| video_description_x  | Descrição do vídeo no primeiro dataset                                             |
-| video_description_y  | Descrição do vídeo no segundo dataset                                              |
-| published_date_x     | Data da publicação do vídeo no primeiro dataset                                    |
-| published_date_y     | Data da publicação do vídeo no segundo dataset                                     |
-| extraction_date_x    | Data da extração dos dados no primeiro dataset                                     |
-| extraction_date_y    | Data da extração dos dados no segundo dataset                                      |
-| views_x              | Número de visualizações no primeiro dataset                                        |
-| views_y              | Número de visualizações no segundo dataset                                         |
-| thumbnail_x          | Link da thumbnail do vídeo no primeiro dataset                                     |
-| thumbnail_y          | Link da thumbnail do vídeo no segundo dataset                                      |
-| merge                | Indica quando um dado foi removido do dataset                                      |
+| merge                | "left_only" indica quando um dado foi removido do dataset                          |
