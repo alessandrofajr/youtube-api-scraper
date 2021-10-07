@@ -11,7 +11,8 @@ O script oferece os dados em CSV ao final. Neste repositório há:
 
 - `canal_insper.csv` contém dados do canal do Insper
 - `alessandro.csv` contém dados do meu canal pessoal
-- `alessandro.csv` contém dados do meu canal pessoal após tornar um vídeo privado
+- `alessandro2.csv` contém dados do meu canal pessoal após tornar um vídeo privado
+- `video_removido.csv` contém a planilha resultante da comparação de `alessandro.csv` com `alessandro2.csv`
 
 #### Dicionário
 
